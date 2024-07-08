@@ -1,0 +1,252 @@
+
+@import url(./login.css);
+
+
+
+*{
+   margin: 0;
+   padding: 0;
+}
+
+
+body{
+    background-color: papayawhip
+}
+
+.container{
+    width: 950px;
+    height: 530px;
+    margin: 0 auto;
+    margin-top: 1em;
+    background-color: rgb(244, 198, 177);
+    border-radius: 10px;
+}
+
+
+/* sidebar */
+
+.sidebar{
+    width: 30%;
+    height: 97.9%;
+    margin: 5px 0 0 5px;
+    background-color: rgb(64, 58, 58);
+    display: inline-block;
+    border-radius: 15px;
+    
+}
+
+
+.four{
+    margin: 1em 0 0 1em;
+    color: white;
+}
+
+
+.three{
+    color: white;
+    margin: 1em 0 0 1em;
+}
+
+.para2{
+    color: rgb(226, 225, 225);
+    margin: 2em 0 0 1em;
+}
+
+.sidebox{
+    width: 85%;
+    height: 35%;
+    border-radius: 10px;
+    background-color: rgb(44, 40, 40); 
+    margin: 12.2em 0 0 1.3em;
+    
+    
+}
+
+
+.para{
+    margin-top: 2em;
+    margin-left: 1em;
+    font-size: smaller;
+    color: rgb(179, 184, 188);
+    
+}
+
+img{
+    margin: 3em 0 0 1em;
+    width: 60px;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 70px;
+    
+}
+
+.inline{
+    display: inline-block;
+    vertical-align: 2em;
+}
+
+
+
+
+ .span1{
+    color: white;
+ 
+ }
+    
+ .span2{
+    color: rgb(199, 197, 197);
+ }
+
+
+/* content of form */
+
+.content{
+    width: 69%;
+    height: 99.8%;
+    background-color: rgb(244, 198, 177);
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+   
+} 
+
+.get{
+    color: rgb(0, 0, 0);
+    font-family: "Montserrat", sans-serif;
+    margin-top: 1em;
+    margin-left: 10px;
+}
+
+
+.signin{
+     color: rgb(62, 55, 55);
+    font-size: 0.7em;
+    font-family: "Montserrat", sans-serif;
+    display: inline-block;
+}
+
+a .signin:hover{
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+}
+
+.in{
+    color: rgba(30, 30, 30. 0.4);
+    font-size: 0.8em;
+    font-family: "Montserrat", sans-serif;
+    margin-left: 1em;
+    margin-top: 1em;
+    display: inline-block;
+    
+   
+}
+
+
+
+form{
+width: 90% ;
+height: 75% ;
+margin-left: 2em;
+
+
+   
+    
+   
+}
+
+
+.look{
+    margin: 2em 0 1em 0; 
+    color: rgb(95, 93, 93);
+    font-family: "Montserrat", sans-serif;
+}
+
+
+
+.proj{
+    width: 200px;
+    height: 30px;
+    border: 2px solid gray;
+    border-radius: 5px 5px 5px 5px ;
+    display: inline-block;
+    margin-left: 1.05em;
+   
+
+} 
+.pro{
+     margin: 0.4em 0 0 0.7em;
+       
+}
+
+
+.design{
+    width: 210px;
+    height: 30px;
+    border: 2px solid gray;
+    border-radius: 5px 5px 5px 5px ;
+    display: inline-block;
+    margin-left: 6.3em;
+   
+
+} 
+.emal{
+    margin: 1em 0 0 1em;
+    color: rgb(77, 76, 76);
+    font-family: "Montserrat", sans-serif;
+  
+}
+
+#email{
+    margin: 1em 0 0 1em;
+    width: 525px;
+    height: 30px;
+    background-color: rgba(252, 252, 252, 0.7);
+    border: none;
+    outline: 2px solid gray;
+    border-radius: 7px;
+    text-indent: 1em;
+}
+
+.pasword{
+    margin: 1em 0 0 1em;
+    color: rgb(77, 76, 76);
+    font-family: "Montserrat", sans-serif;
+}
+
+.word{
+    margin: 1em 0 0 1em;
+    width: 525px;
+    height: 30px;
+    background-color: rgba(252, 252, 252, 0.7);
+    border: none;
+    outline: 2px solid gray;
+    border-radius: 7px;
+    text-indent: 1em;
+}
+
+.skill{
+    margin: 1em 0 0 1em;
+    color: rgb(77, 76, 76);
+    font-family: "Montserrat", sans-serif;
+}
+
+.search{
+    margin: 1em 0 0 1em;
+    width: 525px;
+    height: 30px;
+    background-color: rgba(252, 252, 252, 0.7);
+    border: none;
+    outline: 2px solid gray;
+    border-radius: 7px;
+    text-indent: 1em;
+}
+
+.button{
+    width: 500px;
+    height: 35px;
+    margin: 2em 0 0 2em;
+    border: none;
+    outline: none;
+    background-color:rgb(64, 58, 58); 
+    color: white;
+}

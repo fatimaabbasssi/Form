@@ -1,0 +1,48 @@
+
+.form{
+       margin-top: 3em;
+        width: 90% ;
+        height: 75% ;
+        margin-left: 2em;
+}
+
+
+
+
+
+
+
+.mail{
+    margin: 3em 0 0 1em;
+    width: 525px;
+    height: 30px;
+    background-color: rgba(252, 252, 252, 0.7);
+    border: none;
+    outline: 2px solid gray;
+    border-radius: 7px;
+    text-indent: 1em;
+}
+
+
+.wordlogin{
+    margin: 1em 0 0 1em;
+    width: 525px;
+    height: 30px;
+    background-color: rgba(252, 252, 252, 0.7);
+    border: none;
+    outline: 2px solid gray;
+    border-radius: 7px;
+    text-indent: 1em;
+}
+  
+
+.submit{
+    width: 200px;
+    height: 35px;
+    margin: 2em 0 0 24em;
+    border: none;
+    outline: none;
+    background-color:rgb(64, 58, 58); 
+    color: white;
+    border-radius: 10px;
+}
