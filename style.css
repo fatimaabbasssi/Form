@@ -10,7 +10,7 @@
 
 
 body{
-    background-color: papayawhip
+    background-color: rgb(125, 119, 106)
 }
 
 .container{
@@ -20,6 +20,7 @@ body{
     margin-top: 1em;
     background-color: rgb(244, 198, 177);
     border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 
